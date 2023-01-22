@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Christine Hedde-von Westernhagen",
+    "section": "",
+    "text": "I am a graduate student at Utrecht University trying to make sense of society with the help of statistical methods. While I see problems through a lens of interdependence and complexity, I am an advocate of accesible and reproducible research.\nCurrently, I am working on my Master thesis on the Predictive ability of centrality measures in multi-layer networks at the department of Methodology and Statistics. You can find more information on my past and present projects in the Showcase section."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "showcase.html#data-collection",
+    "href": "showcase.html#data-collection",
+    "title": "Showcase",
+    "section": "Data collection",
+    "text": "Data collection"
+  },
+  {
+    "objectID": "showcase.html#working-paper",
+    "href": "showcase.html#working-paper",
+    "title": "Showcase",
+    "section": "Working paper",
+    "text": "Working paper"
+  },
+  {
+    "objectID": "showcase.html#mapping-missions-new-data-for-the-study-of-african-history",
+    "href": "showcase.html#mapping-missions-new-data-for-the-study-of-african-history",
+    "title": "Showcase",
+    "section": "Mapping Missions: New Data for the Study of African History",
+    "text": "Mapping Missions: New Data for the Study of African History\n\nArticle: Hedde-von Westernhagen, C., & Becker, B. (2022). Mapping Missions: New Data for the Study of African History, Research Data Journal for the Humanities and Social Sciences, 7(1), 1-33. doi: https://doi.org/10.1163/24523666-bja10027\nDataset: https://doi.org/10.7910/DVN/E9EEMQ\n\n\n\n\n\n\n\n\n\nThis project originated from my Bachelor thesis. After digitizing a new map on the locations of Christian mission stations in Africa, we investigated how this map differs from the commonly used sources in historical social research. You can find a synthesis of the findings in this Twitter thread."
+  },
+  {
+    "objectID": "showcase.html#correlaid-workshop-tidy-network-analysis-in-r-and-python",
+    "href": "showcase.html#correlaid-workshop-tidy-network-analysis-in-r-and-python",
+    "title": "Showcase",
+    "section": "CorrelAid Workshop: Tidy Network Analysis in R and Python",
+    "text": "CorrelAid Workshop: Tidy Network Analysis in R and Python\n  View on Github\n\n\n\n\n\n\n\n\nAs a data science volunteer for the NGO CorrelAid , I gave a workshop on network analysis in R (and Python) to my peers. I focused on packages and workflows from the tidyverse, and also implemented the workshop presentation itself using rmarkdown."
+  },
+  {
+    "objectID": "showcase.html#co-authorship-network-of-the-socium-research-center",
+    "href": "showcase.html#co-authorship-network-of-the-socium-research-center",
+    "title": "Showcase",
+    "section": "Co-authorship network of the SOCIUM research center",
+    "text": "Co-authorship network of the SOCIUM research center\n\nData collection\n  View on Github\nDuring my Bachelor’s at the University of Bremen, I assembled a dataset of co-authorship relations within the local social science institute SOCIUM.\n\n\nWorking paper\n  View on Github\n\n\nAs part of a summer school course at Radboud University Nijmegen, I returned to this dataset for the implementation of a temporal exponential random graph model (TERGM). I try to explain the temporal emergence of the co-authorhsip network over 10 years, using author attributes and internal network measures."
+  },
+  {
+    "objectID": "showcase.html#tidytuesday",
+    "href": "showcase.html#tidytuesday",
+    "title": "Showcase",
+    "section": "TidyTuesday",
+    "text": "TidyTuesday\n\n\n\n\n\n\n\n\n\n\nI have participated in several TidyTuesday events to experiment with visualization in ggplot2. View here, here, and here ."
+  },
+  {
+    "objectID": "showcase.html",
+    "href": "showcase.html",
+    "title": "Showcase",
+    "section": "",
+    "text": "View on Github\n\n\n\n\n\n\n\n\nIn my thesis project, I leverage a multi-layer network framework to model and predict the spread of Covid-19 in the Dutch population. Specifically, I focus on the predictive ability of multi-layer centrality measures."
+  }
+]

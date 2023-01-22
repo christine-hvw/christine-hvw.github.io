@@ -1,0 +1,99 @@
+---
+title: "Showcase"
+---
+
+## Master thesis: **Predicting Covid-19 outbreaks using multi-layer centrality measures**
+
+<a href="https://github.com/christine-hvw/thesis_disclosed"> <i class="bi bi-github"></i> View on Github</a>
+
+:::: columns
+::: {.column width="70%"}
+<img src="https://github.com/christine-hvw/thesis_disclosed/blob/master/analyses/3dplot_dummy.png?raw=true" style="height:310px; width:450px; object-fit:cover; border:12px white"/>
+:::
+
+::: {.column width="30%"}
+<img src="https://github.com/christine-hvw/thesis_disclosed/blob/master/presentation/img/sankeyplot_dummy.png?raw=true" style="height:290px; width:370px; margin-left:-95px; margin-top:10px"/>
+:::
+::::
+
+<br>
+
+In my thesis project, I leverage a multi-layer network framework to model and predict the spread of Covid-19 in the Dutch population. Specifically, I focus on the predictive ability of multi-layer centrality measures.
+
+## Mapping Missions: New Data for the Study of African History
+
+- **Article:** Hedde-von Westernhagen, C., & Becker, B. (2022). Mapping Missions: New Data for the Study of African History, Research Data Journal for the Humanities and Social Sciences, 7(1), 1-33. doi: <https://doi.org/10.1163/24523666-bja10027>
+- **Dataset:** <https://doi.org/10.7910/DVN/E9EEMQ>
+
+:::: columns
+::: {.column width="70%"}
+<img src="https://brill.com/view/journals/rdj/7/1/24523666_007_01_s007_text_f0001.jpg" style="height:450px"/>
+:::
+
+::: {.column width="30%"}
+<img src="https://brill.com/view/journals/rdj/7/1/24523666_007_01_s007_text_f0002.jpg" style="height:450px; margin-left:-90px"/>
+:::
+::::
+
+<br>
+
+This project originated from my Bachelor thesis. After digitizing a new map on the locations of Christian mission stations in Africa, we investigated how this map differs from the commonly used sources in historical social research. You can find a synthesis of the findings in this [Twitter thread](https://twitter.com/christinehvw/status/1611399297215467520?s=20&t=t9RRozfdTrFfYvBRIKLVOA).
+
+## *CorrelAid* Workshop: Tidy Network Analysis in R and Python
+
+<a href="https://github.com/christine-hvw/sna_intro-datameetup"> <i class="bi bi-github"></i> View on Github</a>
+
+:::: columns
+::: {.column width="60%"}
+<img src="resources/snaintro_pres.png" style="height:250px"/>
+:::
+
+::: {.column width="40%"}
+<img src="https://github.com/christine-hvw/sna_intro-datameetup/blob/main/figs/soc_plot-1.png?raw=true" style="height:250px; margin-left:-10px"/>
+:::
+::::
+
+<br>
+
+As a data science volunteer for the NGO [CorrelAid](https://correlaid.org) <img src="resources/caid_c.png" style="height:20px;margin-top:-7px">, I gave a workshop on network analysis in R (and Python) to my peers. I focused on packages and workflows from the `tidyverse`, and also implemented the workshop presentation itself using `rmarkdown`.
+
+## Co-authorship network of the *SOCIUM* research center
+
+### Data collection
+
+<a href="https://github.com/christine-hvw/coauthr_net-socium"> <i class="bi bi-github"></i> View on Github</a>
+
+During my Bachelor's at the University of Bremen, I assembled a dataset of co-authorship relations within the local social science institute SOCIUM.
+
+
+### Working paper
+
+<a href="https://github.com/christine-hvw/socium_coauthorship"> <i class="bi 
+bi-github"></i> View on Github</a>
+
+<img src=https://raw.githubusercontent.com/christine-hvw/socium_coauthorship/main/figures/plot_nw-1.png?raw=true" style="height:450px;"/>
+
+<br>
+
+As part of a summer school course at Radboud University Nijmegen, I returned to this dataset for the implementation of a temporal exponential random graph model (TERGM). I try to explain the temporal emergence of the co-authorhsip network over 10 years, using author attributes and internal network measures.
+
+
+## TidyTuesday
+
+:::: columns
+::: {.column width="33%"}
+<img src="https://github.com/christine-hvw/tidytuesday_wk35/blob/main/plot.png?raw=true" style="height:300px"/>
+:::
+
+::: {.column width="33%"}
+<img src=https://github.com/christine-hvw/tidytuesday_wk28/blob/master/plot.png?raw=true" style="height:300px; margin-left:35px"/>
+:::
+
+::: {.column width="33%"}
+<img src="https://github.com/christine-hvw/tidytuesday_wk19/blob/main/plot.png?raw=true" style="height:250px; margin-left:15px; margin-top:20px"/>
+:::
+::::
+
+<br> 
+
+I have participated in several TidyTuesday events to experiment with visualization in `ggplot2`. View [here](https://github.com/christine-hvw/tidytuesday_wk35), [here](https://github.com/christine-hvw/tidytuesday_wk28), and [here](https://github.com/christine-hvw/tidytuesday_wk19) <i class="bi bi-github"></i>.

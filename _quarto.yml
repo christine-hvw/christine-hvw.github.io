@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Christine Hedde-von Westernhagen"
+  navbar:
+    title: '<span style="font-size:12pt">Christine Hedde-von Westernhagen</span>'
+    background: dark
+    search: true
+    right:
+      - href: index.qmd
+        text: Home
+      - href: showcase.qmd
+        text: Showcase
+      - href: resources/cv_chw_acad.pdf
+        text: CV
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
