@@ -2,7 +2,7 @@
 title: '<span style="font-size:8pt">Christine Hedde-von Westernhagen</span>'
 about:
   template: trestles
-  image: images/CSC_0201.jpg
+  image: resources/CSC_0201.jpg
   image-shape: rounded
   image-width: 15em
   links:
