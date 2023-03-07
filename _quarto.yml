@@ -15,9 +15,12 @@ website:
         text: Showcase
       - href: resources/cv_chw_acad.pdf
         text: CV
+  page-footer: 
+    left: '<span style="font-size:9pt">© 2023 Christie Hedde-von Westernhagen - Powered by Quarto</span>'
 
 format:
   html:
     theme: lux
     css: styles.css
     toc: true
+    margin-top: 40px
