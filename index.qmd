@@ -17,7 +17,7 @@ about:
       href: mailto:c.hedde-vonwesternhagen@students.uu.nl
 ---
 
-<div style="margin:50px 300px 0px 0px; text-align:justify; position:absolute; top:50%; -ms-transform:translateY(-50%); transform:translateY(-50%);">
+<div style="margin-top: 20px">
 
 I am a graduate student at Utrecht University trying to make sense of society with the help of statistical methods. While I see problems through a lens of interdependence and complexity, I am an advocate of accessible and reproducible research.
 
@@ -26,3 +26,4 @@ Currently, I am working on my Master thesis on the *Predictive ability of centra
 *** I am currently looking for a PhD position in the area of network science. Please get in touch if you have - or know about - a job opening. ***
 
 </div>
+
