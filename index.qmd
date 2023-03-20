@@ -23,6 +23,6 @@ I am a graduate student at Utrecht University trying to make sense of society wi
 
 Currently, I am working on my Master thesis on the *Predictive ability of centrality measures in multi-layer networks* at the department of [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics). You can find more information on my past and present projects in the [Showcase](showcase.qmd) section.
 
-*** I am currently looking for a PhD position in the area of network science. Please get in touch if you have - or know about - a job opening. ***
+<i class="bi bi-info-circle"></i><span style="color:Tomato;"> I am open to work </span> from spring/summer 2023. I am interested in PhD positions on statistical methods and Data Scientist roles. Please get in touch if you have an opportunity for me.
 
 </div>
