@@ -8,11 +8,11 @@ title: "Showcase"
 
 :::: columns
 ::: {.column width="70%"}
-<img src="https://github.com/christine-hvw/thesis_disclosed/blob/master/analyses/3dplot_dummy.png?raw=true" style="height:310px; width:450px; object-fit:cover; border:12px white"/>
+<img src="https://github.com/christine-hvw/thesis_disclosed/blob/example_analyses/analyses/3dplot_dummy.png?raw=true" style="height:310px; width:450px; object-fit:cover; border:12px white"/>
 :::
 
 ::: {.column width="30%"}
-<img src="https://github.com/christine-hvw/thesis_disclosed/blob/master/presentation/img/sankeyplot_dummy.png?raw=true" style="height:290px; width:370px; margin-left:-95px; margin-top:10px"/>
+<img src="https://github.com/christine-hvw/thesis_disclosed/blob/example_analyses/analyses/sankeyplot_eig-pr.png?raw=true" style="width:370px; margin-left:-95px; margin-top:40px"/>
 :::
 ::::
 
