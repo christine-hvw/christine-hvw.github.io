@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Christine Hedde-von Westernhagen",
     "section": "",
-    "text": "I am a graduate student at Utrecht University trying to make sense of society with the help of statistical methods. While I see problems through a lens of interdependence and complexity, I am an advocate of accessible and reproducible research.\nCurrently, I am working on my Master thesis on the Predictive ability of centrality measures in multi-layer networks at the department of Methodology and Statistics. You can find more information on my past and present projects in the Showcase section.\n I am open to work  from spring/summer 2023. I am interested in PhD positions on statistical methods and Data Scientist roles. Please get in touch if you have an opportunity for me."
+    "text": "I am a PhD Candidate at Eindhoven University of Technology within the Technology, Innovation & Society group at the department of Industrial Engineering and Innovation Sciences. As part of the ERC project FAST: Fostering social tipping dynamics to accelerate sustainability transitions I aim to contribute to a more sustainable future by employing quantitative models of societal processes.\nI hold a Master’s degree in Methodology & Statistics from Utrecht University, where I investigated the Predictive ability of centrality measures in multi-layer networks for my thesis project.\nWhile I see problems through a lens of interdependence and complexity, I am an advocate of accessible and reproducible research. You can find more information on my past and present projects in the Showcase section."
   },
   {
     "objectID": "showcase.html",
@@ -40,5 +40,12 @@
     "title": "Showcase",
     "section": "TidyTuesday",
     "text": "TidyTuesday\n\n\n\n\n\n\n\n\n\n\nI have participated in several TidyTuesday events to experiment with visualization in ggplot2. View here, here, and here ."
+  },
+  {
+    "objectID": "showcase.html#master-thesis-predicting-covid-19-outbreaks-using-multi-layer-centrality-measures",
+    "href": "showcase.html#master-thesis-predicting-covid-19-outbreaks-using-multi-layer-centrality-measures",
+    "title": "Showcase",
+    "section": "",
+    "text": "View on Github\n\n\n\n\n\n\n\n\nIn my thesis project, I leverage a multi-layer network framework to model and predict the spread of Covid-19 in the Dutch population. Specifically, I focus on the predictive ability of multi-layer centrality measures."
   }
 ]
