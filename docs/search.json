@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Christine Hedde-von Westernhagen",
     "section": "",
-    "text": "I am a PhD Candidate at Eindhoven University of Technology within the Technology, Innovation & Society group at the department of Industrial Engineering and Innovation Sciences. As part of the ERC project FAST: Fostering social tipping dynamics to accelerate sustainability transitions I aim to contribute to a more sustainable future by employing quantitative models of societal processes.\nI hold a Master’s degree in Methodology & Statistics from Utrecht University, where I investigated the Predictive ability of centrality measures in multi-layer networks for my thesis project.\nWhile I see problems through a lens of interdependence and complexity, I am an advocate of accessible and reproducible research. You can find more information on my past and present projects in the Showcase section."
+    "text": "I am a PhD Candidate at Eindhoven University of Technology within the Technology, Innovation & Society group at the department of Industrial Engineering and Innovation Sciences. As part of the ERC project FAST: Fostering social tipping dynamics to accelerate sustainability transitions I aim to contribute to a more sustainable future by employing quantitative models of societal processes.\nI hold a Master’s degree in Methodology & Statistics from Utrecht University, where I investigated the Predictive ability of centrality measures in multi-layer networks for my thesis project.\nWhile I see problems through a lens of interdependence and complexity, I am an advocate of accessible and reproducible research. You can find more information on my past and present projects in the Showcase section.\nI like sharing my expertise in statistical analysis, visualization, and R programming. Please reach out if you think your work could benefit from a consultation or collaboration!"
   },
   {
     "objectID": "showcase.html",
     "href": "showcase.html",
     "title": "Showcase",
     "section": "",
-    "text": "View on Github\n\n\n\n\n\n\n\n\nIn my thesis project, I leverage a multi-layer network framework to model and predict the spread of Covid-19 in the Dutch population. Specifically, I focus on the predictive ability of multi-layer centrality measures."
+    "text": "View on arXiv |   View on Github\n\n\n\n\n\n\n\nIn this study, we leverage the framework of multi-layer networks to model and predict the spread of COVID-19 in the Dutch population. We compare different centrality measures in their predictive ability of individual infections. The centrality measures are employed as predictors in proportional-hazards and XGBoost models, and we find that Eigenvector centrality can account for substantial variation in infection risks and timing. The study originated from my master thesis at the Departmet of Methodology and Statistics at Utrecht University.\n\n\n\n  View on Github"
   },
   {
     "objectID": "showcase.html#mapping-missions-new-data-for-the-study-of-african-history",
     "href": "showcase.html#mapping-missions-new-data-for-the-study-of-african-history",
     "title": "Showcase",
     "section": "Mapping Missions: New Data for the Study of African History",
-    "text": "Mapping Missions: New Data for the Study of African History\n\nArticle: Hedde-von Westernhagen, C., & Becker, B. (2022). Mapping Missions: New Data for the Study of African History, Research Data Journal for the Humanities and Social Sciences, 7(1), 1-33. doi: https://doi.org/10.1163/24523666-bja10027\nDataset: https://doi.org/10.7910/DVN/E9EEMQ\n\n\n\n\n\n\n\n\n\nThis project originated from my Bachelor thesis. After digitizing a new map on the locations of Christian mission stations in Africa, we investigated how this map differs from the commonly used sources in historical social research. You can find a synthesis of the findings in this Twitter thread."
+    "text": "Mapping Missions: New Data for the Study of African History\n\nArticle: Hedde-von Westernhagen, C., & Becker, B. (2022). Mapping Missions: New Data for the Study of African History, Research Data Journal for the Humanities and Social Sciences, 7(1), 1-33. doi: https://doi.org/10.1163/24523666-bja10027\nDataset: https://doi.org/10.7910/DVN/E9EEMQ\n\n\n\n\n\n\n\n\n\nThis project originated from my bachelor thesis in Political Science at University of Bremen. After digitizing a new map on the locations of Christian mission stations in Africa, we investigated how this map differs from the commonly used sources in historical social research. You can find a synthesis of the findings in this Twitter thread."
   },
   {
     "objectID": "showcase.html#correlaid-workshop-tidy-network-analysis-in-r-and-python",
@@ -47,5 +47,12 @@
     "title": "Showcase",
     "section": "",
     "text": "View on Github\n\n\n\n\n\n\n\n\nIn my thesis project, I leverage a multi-layer network framework to model and predict the spread of Covid-19 in the Dutch population. Specifically, I focus on the predictive ability of multi-layer centrality measures."
+  },
+  {
+    "objectID": "showcase.html#predicting-covid-19-outbreaks-using-multi-layer-centrality-measures",
+    "href": "showcase.html#predicting-covid-19-outbreaks-using-multi-layer-centrality-measures",
+    "title": "Showcase",
+    "section": "",
+    "text": "View on arXiv |   View on Github\n\n\n\n\n\n\n\nIn this study, we leverage the framework of multi-layer networks to model and predict the spread of COVID-19 in the Dutch population. We compare different centrality measures in their predictive ability of individual infections. The centrality measures are employed as predictors in proportional-hazards and XGBoost models, and we find that Eigenvector centrality can account for substantial variation in infection risks and timing. The study originated from my master thesis at the Departmet of Methodology and Statistics at Utrecht University.\n\n\n\n  View on Github"
   }
 ]

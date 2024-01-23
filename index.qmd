@@ -6,23 +6,25 @@ about:
   image-shape: rounded
   image-width: 15em
   links:
+    - icon: envelope
+      text: E-mail
+      href: mailto:c.hedde.von.westernhagen@tue.nl
+    - text: TU/e
+      href: https://research.tue.nl/en/persons/christine-hedde-von-westernhagen    
     - icon: twitter
-      text: Twitter
       href: https://twitter.com/christinehvw
     - icon: linkedin
-      text: LinkedIn
       href: https://www.linkedin.com/in/christine-hedde-vonwesternhagen/
-    - icon: envelope
-      text: Mail
-      href: mailto:c.hedde.von.westernhagen@tue.nl
 ---
 
-<div style="margin-top: 20px; text-align: justify; text-justify: inter-word;">
+<div style="margin-top: 0px; margin-right:-50px; text-align: justify; text-justify: inter-word;">
 
 I am a PhD Candidate at Eindhoven University of Technology within the [Technology, Innovation & Society](https://www.tue.nl/en/research/research-groups/innovation-sciences/technology-innovation-society) group at the department of Industrial Engineering and Innovation Sciences. As part of the ERC project *FAST: Fostering social tipping dynamics to accelerate sustainability transitions* I aim to contribute to a more sustainable future by employing quantitative models of societal processes.
 
 I hold a Master's degree in Methodology & Statistics from Utrecht University, where I investigated the *Predictive ability of centrality measures in multi-layer networks* for my thesis project. 
 
 While I see problems through a lens of interdependence and complexity, I am an advocate of accessible and reproducible research. You can find more information on my past and present projects in the [Showcase](showcase.qmd) section.
+
+I like sharing my expertise in statistical analysis, visualization, and R programming. Please reach out if you think your work could benefit from a <span style="color: indianred">consultation or collaboration</span>!
 
 </div>

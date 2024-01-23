@@ -2,23 +2,28 @@
 title: "Showcase"
 ---
 
-## Master thesis: **Predicting Covid-19 outbreaks using multi-layer centrality measures**
+## Predicting Covid-19 outbreaks using multi-layer centrality measures
 
-<a href="https://github.com/christine-hvw/thesis_disclosed"> <i class="bi bi-github"></i> View on Github</a>
+### Preprint 
+
+<a href="https://arxiv.org/abs/2310.14767"> <i class="bi bi-file-earmark-text-fill"></i> View on arXiv</a> | <a href="https://github.com/christine-hvw/thesis_disclosed/tree/publication"> <i class="bi bi-github"></i> View on Github</a>
 
 :::: columns
-::: {.column width="70%"}
-<img src="https://github.com/christine-hvw/thesis_disclosed/blob/example_analyses/analyses/3dplot_dummy.png?raw=true" style="height:310px; width:450px; object-fit:cover; border:12px white"/>
+::: {.column width="50%"}
+<img src="resources/fig_analysis.png" style="width:420px; margin-top: 40px"/>
 :::
 
-::: {.column width="30%"}
-<img src="https://github.com/christine-hvw/thesis_disclosed/blob/example_analyses/analyses/sankeyplot_eig-pr.png?raw=true" style="width:370px; margin-left:-95px; margin-top:40px"/>
+::: {.column width="50%"}
+<img src="resources/fig_cox.png" style="width:370px; clip-path: inset(5px 5px 5px 5px); margin-left:40px"/>
 :::
 ::::
 
-<br>
+In this study, we leverage the framework of multi-layer networks to model and predict the spread of COVID-19 in the Dutch population. We compare different centrality measures in their predictive ability of individual infections. The centrality measures are employed as predictors in proportional-hazards and XGBoost models, and we find that Eigenvector centrality can account for substantial variation in infection risks and timing. The study originated from my master thesis at the Departmet of Methodology and Statistics at Utrecht University.
 
-In my thesis project, I leverage a multi-layer network framework to model and predict the spread of Covid-19 in the Dutch population. Specifically, I focus on the predictive ability of multi-layer centrality measures.
+### Master Thesis
+
+<a href="https://github.com/christine-hvw/thesis_disclosed/tree/main"> <i class="bi bi-github"></i> View on Github</a>
+
 
 ## Mapping Missions: New Data for the Study of African History
 
@@ -37,7 +42,7 @@ In my thesis project, I leverage a multi-layer network framework to model and pr
 
 <br>
 
-This project originated from my Bachelor thesis. After digitizing a new map on the locations of Christian mission stations in Africa, we investigated how this map differs from the commonly used sources in historical social research. You can find a synthesis of the findings in this [Twitter thread](https://twitter.com/christinehvw/status/1611399297215467520?s=20&t=t9RRozfdTrFfYvBRIKLVOA).
+This project originated from my bachelor thesis in Political Science at University of Bremen. After digitizing a new map on the locations of Christian mission stations in Africa, we investigated how this map differs from the commonly used sources in historical social research. You can find a synthesis of the findings in this [Twitter thread](https://twitter.com/christinehvw/status/1611399297215467520?s=20&t=t9RRozfdTrFfYvBRIKLVOA).
 
 ## *CorrelAid* Workshop: Tidy Network Analysis in R and Python
 
